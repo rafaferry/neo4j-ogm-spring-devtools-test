@@ -1,0 +1,11 @@
+/build/
+/bin/
+.classpath
+.project
+/gradle/
+/**/node_modules/
+/**/nodeWork
+/jbehave/*
+#as pastas "dist" dos js e css possuem seu próprio gitignore. 
+/jbehave/
+
