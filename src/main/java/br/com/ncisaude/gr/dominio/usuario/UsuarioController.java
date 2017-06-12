@@ -11,7 +11,7 @@ import br.com.ncisaude.gr.infra.jsend.SucessoResponse;
 
 @RestController
 @Transient
-public class ManterUsuarioController {
+public class UsuarioController {
 
 	@Autowired
 	private UsuarioRepository usuarioRepository;
