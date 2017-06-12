@@ -22,8 +22,8 @@ apply plugin: 'org.springframework.boot'
 group = 'br.com.ncisaude'
 version = '0.1.0-SNAPSHOT'
 
-description = "Gestão de Resultado"
-war.archiveName "GR.war"
+description = "neo4j-ogm-devtools-test"
+war.archiveName "neo4j-ogm-devtools-test.war"
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
